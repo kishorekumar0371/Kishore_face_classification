@@ -88,7 +88,7 @@ if st.button("Predict Expression"):
   result=import_and_predict(image)
   st.success('Model has predicted the image expression is   {}'.format(result))
 if st.button("About"):
-  st.header(" Sudhanshu Sharma")
+  st.header(" Kishor Kumar")
   st.subheader("Student, Department of Computer Engineering")
   
 html_temp = """
@@ -115,7 +115,7 @@ html_temp = """
    <div class="fixed-bottom ">
       <div class="dark bg-dark " style="min-height: 40px;">
          <marquee style="color:#fff; margin-top: 7px;">
-            <h9>Designed & Developed by Sudhanshu Sharma, Student of Poornima Institute of Engineering and Technology</h9>
+            <h9>Designed & Developed by Kishor Kumar, Student of Poornima Institute of Engineering and Technology</h9>
          </marquee>
       </div>
    </div>
